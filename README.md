@@ -1,37 +1,13 @@
-# Tomboy
+# Professional README Generator
 
-  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.mit.edu/~amini/LICENSE.md)
-  ## Table of Contents
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Licenses](#licenses)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-  * [Credits](#credits)
-  
-  ## Description
-  Over the hills and far away
+## Description
 
-  ## Installation
-  Take the files. Protect the files.
+Creating README files is an essential yet sometimes onerous task. Every project is different, but most of the time, README files have the same format and similar content.  The purpose of this project is to streamline the README generation process by utilizing the Inquirer NPM to gather input from a user and then render it into an appropriate format.
 
-  ## Usage
-  Put it in their computer
+## Installation
 
-  ## License 
- This project is covered under the MIT license. To learn more about what this means, click the license button at the top. 
+You may install this project by cloning the repository into your computer using your preferred terminal interface.  Navigate to my repository and then clone the repository according to your computer's configuration.
 
-  ## Contributing
-  Talk to me
+## Usage
 
-  ## Tests
-  Talk to the computer
-
-  ## Questions 
- If you have questions, please visit the source repository on Github (https://www.github.com/neffej) or email me at eric.j.neff@gmail.com.
-  
-  ## Credits
-  Eric Neff
-  
+To run this file, it is essential to download and install Node.js to your local computer, and also to download the Inquirer NPM.  At that point, navigate to the respository, then run 'node index.js' to initiate the code.
